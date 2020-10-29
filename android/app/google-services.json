@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037029722256",
+    "firebase_url": "https://medishop-bd.firebaseio.com",
+    "project_id": "medishop-bd",
+    "storage_bucket": "medishop-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037029722256:android:87eebd3efff6099c017015",
+        "android_client_info": {
+          "package_name": "com.creativecodersonfiverrafran.medishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037029722256-2itkenjgd2e8e00tsda84cfl6mofqd77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.creativecodersonfiverrafran.medishop",
+            "certificate_hash": "3efa15a2ae134dc9a47cc83f9e625323fb0f7d20"
+          }
+        },
+        {
+          "client_id": "1037029722256-39p2met952mo6u650gjcvnmp9mvui566.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtfavvt3NmMUXYCc7Kz4OLnf-uGJ1SLU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037029722256-39p2met952mo6u650gjcvnmp9mvui566.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
